@@ -18,4 +18,4 @@ resources:
   bugtracker: http://github.com/reneeb/Data-Vaidate-WithYAML-Plugin-PasswordPolicy/issues
   homepage: http://github.com/reneeb/Data-Vaidate-WithYAML-Plugin-PasswordPolicy
   repository: http://github.com/reneeb/Data-Vaidate-WithYAML-Plugin-PasswordPolicy.git
-version: 0.01
+version: 0.02

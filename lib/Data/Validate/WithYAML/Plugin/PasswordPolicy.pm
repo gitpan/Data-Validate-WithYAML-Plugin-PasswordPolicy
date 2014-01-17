@@ -7,7 +7,7 @@ use Carp;
 
 # ABSTRACT: Plugin to check passwords against a policy 
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub check {
     my ($class, $value, $options) = @_;
@@ -86,7 +86,7 @@ Data::Validate::WithYAML::Plugin::PasswordPolicy - Plugin to check passwords aga
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
